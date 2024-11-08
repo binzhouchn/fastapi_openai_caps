@@ -23,7 +23,7 @@ docker build -t fastapi_openai_py310:v1 .
 sudo sh run.sh
 ```
 
-## 4.python调用示例
+## 4.调用示例
 
 4.1 curl调用示例<br>
 
