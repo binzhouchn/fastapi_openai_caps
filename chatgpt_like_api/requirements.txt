@@ -1,0 +1,12 @@
+fastapi==0.115.4
+pydantic==2.9.2
+scikit-learn==1.4.2
+jieba==0.42.1
+starlette==0.41.2
+sse_starlette==1.8.2
+pandas==2.0.3
+meutils==2024.09.19.17.11.07
+numpy==1.24.4
+loguru==0.7.2
+json==2.0.9
+openai==1.54.3
